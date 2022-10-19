@@ -1,0 +1,6 @@
+framework module Pods_MobFlixTests {
+  umbrella header "Pods-MobFlixTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
